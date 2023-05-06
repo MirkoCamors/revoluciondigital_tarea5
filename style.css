@@ -1,0 +1,37 @@
+body{
+  background-color: gainsboro;
+}
+.cabeza, .pie{
+  background-color: gray;
+  width:100%;
+}
+.rembla, .remneg, .remroj {
+  width: 300px;
+}
+.Lun, .Mar, .Jue{
+  background-color: steelblue;
+}
+.Mie, .Vie, .Sab{
+  background-color:teal
+}
+.Dom{
+  background-color:cadetblue;
+}
+table{
+  border-style:dotted;
+  background-color:gray;
+}
+ul{
+  list-style: none;
+}
+.pie{
+  height: 60px;
+}
+.formulario{ 
+  width: 400px;
+  background-color:slategrey;
+  padding: 10px;
+}
+textarea{
+  resize: none;
+}
